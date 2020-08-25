@@ -7,6 +7,8 @@ Creates renderLayers from selected 'mesh' objects in the Maya scene -
  - Qt based UI in sync and updates with changes in Maya using scriptJobs
  - Validation checks for unsupported nodes with pop up window
 
+# Video on how it works
+https://vimeo.com/451367949
 
 Installation instructions -
 
