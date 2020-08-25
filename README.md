@@ -16,5 +16,6 @@ Once in your Python tab you can drag the code from there to your shelf to create
 NOTE: If you get an '_untitled_' renderlayer on using the tool that can be easily solved by going to the options in the Maya RenderLayer window
 and Checking OFF "Enable untitled collections....."
 
+# code-
 import renderLayerMgr as ren
 reload(ren)
