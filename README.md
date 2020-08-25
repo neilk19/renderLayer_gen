@@ -10,6 +10,7 @@ Creates renderLayers from selected 'mesh' objects in the Maya scene -
 
 Installation instructions -
 
+Copy Paste 'renderLayerMgr.py' file into your documents/maya/20xx/scripts
 Paste the code below into your Maya Script editor in a Python tab and execute.
 Once in your Python tab you can drag the code from there to your shelf to create a shelf button out of it.
 
