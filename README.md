@@ -7,7 +7,7 @@ Creates renderLayers from selected 'mesh' objects in the Maya scene -
  - Qt based UI in sync and updates with changes in Maya using scriptJobs
  - Validation checks for unsupported nodes with pop up window
 
-Video on how it works
+* Video on how it works
 https://vimeo.com/451367949
 
 Installation instructions -
@@ -19,7 +19,7 @@ Once in your Python tab you can drag the code from there to your shelf to create
 NOTE: If you get an '_untitled_' renderlayer on using the tool that can be easily solved by going to the options in the Maya RenderLayer window
 and Checking OFF "Enable untitled collections....."
 
-#code-
+# code-
 
 import renderLayerMgr as ren
 
